@@ -1,2 +1,25 @@
-# Netflix_clone
-A fully responsive Netflix Clone built using HTML &amp; CSS, designed to replicate the look and feel of the official Netflix website. This project focuses on clean UI, structured layouts, and responsive design elements for a real-world frontend development experience.
+# 🎬 Netflix Clone
+
+A fully responsive **Netflix Clone** built using **HTML** & **CSS**.  
+This project focuses on replicating the modern UI of Netflix with clean design, responsiveness, and user-friendly layouts.
+
+---
+
+## ⭐ Features
+
+✅ Modern Netflix-style homepage  
+✅ Fully responsive design (Mobile + Tablet + Desktop)  
+✅ Hover effects on buttons & cards  
+✅ Hero section with banner UI  
+✅ Clean folder structure & readable code  
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3** (Flexbox & Grid)
+
+---
+
+## 📁 Project Structure
